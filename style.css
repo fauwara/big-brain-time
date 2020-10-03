@@ -61,7 +61,7 @@ img{
 .top{
     position: absolute;
     bottom: 59px;
-    right: 15px
+    right: 15px;
 }
 
 .bottom{
@@ -95,7 +95,7 @@ img{
     .top{
         position: absolute;
         bottom: 37px;
-        right: 8px
+        right: 8px;
     }
     
     .bottom{
@@ -112,7 +112,6 @@ img{
         height: 40px;
     }
 }
-
 
 @media (max-width: 250px){
     .box{
