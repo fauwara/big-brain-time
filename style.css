@@ -16,7 +16,7 @@ body{
 #main{
     display: flex;
     justify-content: center;
-    margin-top: 7em;
+    align-items: center;
 }
 
 .row{
@@ -80,10 +80,6 @@ img{
         height: 50px;
     }
 
-    #main{
-        margin-top: 11em;
-    }
-
     .right{
         right: -31px;
         transform: rotate(90deg);
@@ -114,10 +110,6 @@ img{
         width: 40px;
         height: 40px;
     }
-    
-    #main{
-        margin-top: 12em;
-    }
 }
 
 
@@ -125,9 +117,5 @@ img{
     .box{
         width: 30px;
         height: 30px;
-    }
-
-    #main{
-        margin-top: 15em;
     }
 }
