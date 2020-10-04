@@ -7,6 +7,7 @@ let cont = 0;
 
 function winnerDeclaration(){
     alert(' Omedetō 🎀 ');
+    window.location.href="https://quizmachine.000webhostapp.com/p98gt90u98h.html";
 }
 
 
